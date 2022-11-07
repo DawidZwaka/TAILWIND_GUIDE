@@ -145,12 +145,12 @@ Jeśli jesteś zaznajomiony z CSS'em to powyższy kod powinien być dla ciebie b
 ## Przydatne narzędzia
 
 #### **Node packages**
-[Tailwind CSS Debug Screens 📱]("https://www.npmjs.com/package/tailwindcss-debug-screens") - Malutki plugin, który na bieżąco pokazuje aktywny breakpoint, przydatny przy pisaniu RWD.
+[Tailwind CSS Debug Screens 📱](https://www.npmjs.com/package/tailwindcss-debug-screens) - Malutki plugin, który na bieżąco pokazuje aktywny breakpoint, przydatny przy pisaniu RWD.
 
 #### **Pluginy VSC**
-[Tailwind CSS IntelliSense]("https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss") - Plugin, który podpowiada nam na bieżąco utility classes, pozwala zajrzeć jaki kod wyjściowy generuje dana klasa oraz highlightuje potęcjalne bugi w naszym kodzie css i html
+[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Plugin, który podpowiada nam na bieżąco utility classes, pozwala zajrzeć jaki kod wyjściowy generuje dana klasa oraz highlightuje potęcjalne bugi w naszym kodzie css i html
 
-[Tailwind CSS Highlight]("https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight") - Malutki plugin, który koloruje klasy w naszym kodzie html, dzięki czemu część utility class odpowiadająca wariantowi jest wyszczególniona, co poprawia ogólną czytelność kodu.
+[Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Malutki plugin, który koloruje klasy w naszym kodzie html, dzięki czemu część utility class odpowiadająca wariantowi jest wyszczególniona, co poprawia ogólną czytelność kodu.
 
 #### **Pluginy PhpStorm**
 [Tailwind CSS](https://plugins.jetbrains.com/plugin/15321-tailwind-css) - JetBrainsowy odpowiednik wyżej omawianego pluginu Tailwind CSS IntelliSense dla VSC
